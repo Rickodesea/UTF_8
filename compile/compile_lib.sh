@@ -1,4 +1,4 @@
-#Program
+#UTF_8 LIBRARY
 
 #change make file and app name
 make_file=compile/build_lib.mk

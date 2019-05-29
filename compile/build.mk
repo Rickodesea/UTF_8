@@ -1,4 +1,4 @@
-#Program
+#UTF_8 PROGRAM
 
 INCLUDES = -I.
 CFLAGS =
